@@ -16,17 +16,4 @@ marks = {
 }
 collection_of_coins = {1, 2, 25}
 
-# Creating the categorized dictionary
-sorted_variables = {
-    "mutable": [
-        my_favourite_films,  # Lists are mutable
-        marks,               # Dictionaries are mutable
-        collection_of_coins  # Sets are mutable
-    ],
-    "immutable": [
-        lucky_number,          # Integers are immutable
-        pi,                    # Floats are immutable
-        one_is_a_prime_number, # Booleans are immutable
-        name,                  # Strings are immutable
-        profile_info           # Tuples are immutable
-    ]
+# write your code here
